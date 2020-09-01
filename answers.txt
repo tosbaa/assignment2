@@ -1,0 +1,19 @@
+1.1) 0 824 0   Succes rate = %56
+     0 2317 0  Total Missclasification errors = 1760
+     0 936 0   Comment = Gaussian had less success rate than the multinomial and bernoulli methods
+                    for integer type of data multinomial is the most proper method
+
+
+1.2) 0 640 0   Success rate = %57
+     0 1804 0  Total Missclasification errors = 1373
+     0 733 0   Comment = Three of the methods extract the same results, when number of samples get increased, gausian could perform better
+
+2.1) Length - Diameter - Height
+
+2.2) 0 824 0   Succes rate = %56
+     0 2317 0  Total Missclasification errors = 1760
+     0 936 0   Comment = With just three features we got the same results as we did with all features. Performace is hugely increased
+
+2.3) 0 640 0   Success rate = %57
+     0 1804 0  Total Missclasification errors = 1373
+     0 733 0   Comment = With just three features we got the same results as we did with all features. Performace is hugely increased
